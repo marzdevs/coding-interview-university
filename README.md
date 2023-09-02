@@ -563,7 +563,7 @@ But don't forget to do coding problems from above while you learn!
 - [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [x] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [x] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](  )
-- [ ] [Skiena (video)](https://www.youtube.com/watch?v=z1mkCe3kVUA)
+- [x] [Skiena (video)](https://www.youtube.com/watch?v=z1mkCe3kVUA)
 - [ ] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
 - [ ] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] TopCoder (includes recurrence relations and master theorem):
